@@ -1,0 +1,1 @@
+C:\Users\user\AndroidStudioProjects\Motion_OpenCV\sdk\build\intermediates\cxx\RelWithDebInfo\1r183h59\obj\x86

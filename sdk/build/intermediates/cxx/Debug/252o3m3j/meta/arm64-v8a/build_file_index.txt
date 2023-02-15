@@ -1,0 +1,1 @@
+C:\Users\user\AndroidStudioProjects\Motion_OpenCV\sdk\libcxx_helper\CMakeLists.txt

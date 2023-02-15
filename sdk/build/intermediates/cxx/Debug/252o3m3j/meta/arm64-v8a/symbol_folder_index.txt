@@ -1,0 +1,1 @@
+C:\Users\user\AndroidStudioProjects\Motion_OpenCV\sdk\build\intermediates\cxx\Debug\252o3m3j\obj\arm64-v8a
